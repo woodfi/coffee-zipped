@@ -1,6 +1,3 @@
-# coffee-zipped
-☕️ All the assets you need to make a simple html site
-
 <p align="center"> <img src="https://vutondesign.com/host/all/coffee-zipped/logo.png"/> </p>
 <h1 align="center">Coffee-Zipped</h1>
 <p align="center"> All the assets you need to make a simple HTML site. </p>
