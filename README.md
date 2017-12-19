@@ -2,7 +2,7 @@
 <h1 align="center">Coffee-Zipped</h1>
 <p align="center"> All the assets you need to make a simple HTML site. </p>
 <p align="center">
-  <a href="https://vutondesign.com/mitmit/"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+  <a href=https://vutondesign.com/mymit/"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
 </p>
 
 ### About
