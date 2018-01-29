@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://vutondesign.com/host/all/coffee-zipped/logo.png"/> </p>
 <h1 align="center">Coffee-Zipped</h1>
 <p align="center"> All the assets you need to make a simple HTML site. </p>
 
@@ -18,4 +17,4 @@ git clone https://github.com/vutondesign/coffee-zipped.git
 ```
 
 ### License 
-🎨 with ❤️ by vutondesign under the [MIT License](http://ktrvs.com/mymit/).
+🎨 with ❤️ by ktrvs under the [MIT License](http://ktrvs.com/mymit/).
