@@ -13,8 +13,8 @@ Coffee-Zipped is a simple HTML website boilerplate that comes with everything yo
 
 ### Install using Git
 ```
-git clone https://github.com/ktrvs/coffee-zipped.git
+git clone https://github.com/vutondesign/coffee-zipped.git
 ```
 
 ### License 
-🎨 with ❤️ by ktrvs under the [MIT License](http://ktrvs.com/mymit/).
+🎨 with ❤️ by ktrvs under the [MIT License](http://ktrvs.github.io/wave).
